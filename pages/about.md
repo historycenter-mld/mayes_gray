@@ -12,16 +12,10 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Mayes Gray Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Mayes Gray Collection is one of many image collections housed by the Meridian History Center and the Meridian Library District. The Mayes and Gray families are some of the early settlers in the Meridian area. To that end, they images donated by the family have been digitized and uploaded to this website for all to enjoy.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## About the CollectionBuilder Software
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/). The University of Idaho created this helpful software.
