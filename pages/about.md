@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://mldhistory.github.io/mayes_gray/objects/coll001-1.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection; Page" %}
 
 ## About the Mayes Gray Collection
 
