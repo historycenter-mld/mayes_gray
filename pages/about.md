@@ -12,4 +12,4 @@ credits: true
 
 ## About the Mayes Gray Collection
 
-The Mayes Gray Collection is one of many image collections housed by the Meridian History Center and the Meridian Library District. The Mayes and Gray families are some of the early settlers in the Meridian area. Their families have donated these images and they have been digitized and uploaded for all to enjoy.
+The Mayes Gray Collection is one of many image collections housed by the Meridian History Center and the Meridian Library District. The Mayes and Gray families are among the early Meridian settlers.  Their descendants donated the images to the Meridian History Center so they could be enjoyed by all. The images in this collection range from the 1800's through 1980. We hope you enjoy these snapshots of Meridian's past.
