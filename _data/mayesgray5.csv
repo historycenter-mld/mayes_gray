@@ -1,5 +1,5 @@
 objectid,filename,title,creator,date,date_is_approximate?,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-col001_1,coll001-1.jpg,Earl Rambo - Toll Gate,,1893,yes,Man driving wagon through hills,men;wagons;horses;mountains;trails,,,,,,Image;StillImage,image/jpg,eng,,
+col001_1,coll001-1.jpg,Earl Rambo - Toll Gate,,1923,yes,Earl Rambo driving wagon through hills. Earl Rambo lived from 1895-1958 so we estimate this image is from about 1925.,men;wagons;horses;mountains;trails,,,,,,Image;StillImage,image/jpg,eng,,
 col001_2,coll001-2.jpg,Earl Rambo - Winter,,1915,,Man in horse drawn buggy,men;carriages;horses,,,,,,Image;StillImage,image/jpg,eng,,
 col001_3,coll001-3.jpg,Four horse riders,,1917,,"Earl Rambo, Frank Hudson, Etta Hudson, and Lissa Cleek posing for a picture",men;women;horses,,,,,,Image;StillImage,image/jpg,eng,,
 col001_4,coll001-4.jpg,Creamery Stack,,1934,yes,Challenge Butter Creamery Stack,"smokestack;Challenge Butter;creamery,dairy","Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
@@ -44,7 +44,7 @@ col001_45,coll001-45.jpg,"""Sincerely Yours"" - Dorothy",Burns Studio,1923,yes,"
 col001_46,coll001-46.jpg,Fourth and Fifth Graders from 1913-1914,,1913-1914,,Pictures taken in 1913-1914 of two class grades at a Meridian grade school.,grade schools;schools;school grades;children;boys;girls;teachers,"Meridian, Idaho",43.6121,-116.3915,The Meridian Times,,Image;StillImage,image/jpg,eng,,
 col001_47,coll001-47.jpg,The Daly Brothers ,,1919,yes,Reproduction of the Daly brothers.,brothers;men;Daly;portrait,,,,,,Image;StillImage,image/jpg,eng,,
 col001_50,coll001-50.jpg,Ribbon Cutting for the Library,,1971,,Meridian Mayor Dan Storey & Librarian Nang Soze.,libraries;men;women;ribbon;books,"Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
-col001_51,coll001-51.jpg,Main Street,,1900,,View of Main Street during the early 1900s.,streets;automobiles;stores;storefronts;men;women;dogs,"Meridian, Idaho",43.60913,-116.39156,,,Image;StillImage,image/jpg,eng,,
+col001_51,coll001-51.jpg,Idaho Street,,1900,,View looking west on Idaho Street during the early 1900s.,streets;automobiles;stores;storefronts;men;women;dogs,"Meridian, Idaho",43.60913,-116.39156,,,Image;StillImage,image/jpg,eng,,
 col001_52,coll001-52.jpg,Swede Boice in front of Automobile,,1945-5-28,,Picture of Swede Boice in 1945.,Swede Boice;automobiles;stores;streets;men,,,,,,Image;StillImage,image/jpg,eng,,
 col001_53,coll001-53.jpg,Parade Float for University of Idaho,,1950,yes,Parade float of Idaho for University of Idaho.,parades;Idaho;University of Idaho;music;floats,"Meridian, Idaho",43.6121,,,,Image;StillImage,image/jpg,eng,,
 col001_54,coll001-54.jpg,Several Men pose in Automobile,,1910-1920,yes,"Car in the middle of a field with five people. One outside the car, two up front, two in back.",men;women;automobiles;fields,,,,,,Image;StillImage,image/jpg,eng,,
