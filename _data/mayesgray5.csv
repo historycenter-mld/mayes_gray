@@ -1,5 +1,5 @@
 objectid,filename,title,creator,date,date_is_approximate?,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-col001_1,coll001-1.jpg,Earl Rambo - Toll Gate,,1923,yes,Earl Rambo driving wagon through hills. Earl Rambo lived from 1895-1958 so we estimate this image is from about 1925.,men;wagons;horses;mountains;trails,,,,,,Image;StillImage,image/jpg,eng,,
+col001_1,coll001-1.jpg,Earl Rambo - Toll Gate,,1930,yes,Earl Rambo driving wagon through hills. Earl Rambo lived from 1895-1958 so we estimate this image dates from about 1930.,men;wagons;horses;mountains;trails,,,,,,Image;StillImage,image/jpg,eng,,
 col001_2,coll001-2.jpg,Earl Rambo - Winter,,1915,,Man in horse drawn buggy,men;carriages;horses,,,,,,Image;StillImage,image/jpg,eng,,
 col001_3,coll001-3.jpg,Four horse riders,,1917,,"Earl Rambo, Frank Hudson, Etta Hudson, and Lissa Cleek posing for a picture",men;women;horses,,,,,,Image;StillImage,image/jpg,eng,,
 col001_4,coll001-4.jpg,Creamery Stack,,1934,yes,Challenge Butter Creamery Stack,"smokestack;Challenge Butter;creamery,dairy","Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
@@ -40,7 +40,7 @@ col001_40,coll001-40.jpg,Horse Teams Plow behind the Meridian Creamery,C. Gray,1
 col001_41,coll001-41.jpg,Men posing in front of the Old Boiler,E.G. Millikan,1934,yes,Three men pose in front the the old boiler at the Meridian Creamery.,men;boilers;creamery;buildings;dairy,"Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
 col001_43,coll001-43.jpg,Mr. Matthews,,1945,yes,Mr. Matthews posing by a movie poster.,men;movie posters;streets;Matthews,,,,,,Image;StillImage,image/jpg,eng,,
 col001_44,coll001-44.jpg,Challenge Butter Advertisement on Smokestack,,1934,yes,View of the smoke stack with Challenger logo.,creamery;smokestacks;Challenge Butter;dairy,"Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
-col001_45,coll001-45.jpg,"""Sincerely Yours"" - Dorothy",Burns Studio,1923,yes,"Young woman, Dorothy, posing for a photo.  Burns Studio operated in Idaho from 1919-2013. ",women;portraits,"Boise, Idaho",,,,,Image;StillImage,image/jpg,eng,,
+col001_45,coll001-45.jpg,Sincerely Yours - Dorothy,Burns Studio,1923,yes,"Young woman, Dorothy, posing for a photo.  Burns Studio operated in Idaho from 1919-2013. ",women;portraits,"Boise, Idaho",,,,,Image;StillImage,image/jpg,eng,,
 col001_46,coll001-46.jpg,Fourth and Fifth Graders from 1913-1914,,1913-1914,,Pictures taken in 1913-1914 of two class grades at a Meridian grade school.,grade schools;schools;school grades;children;boys;girls;teachers,"Meridian, Idaho",43.6121,-116.3915,The Meridian Times,,Image;StillImage,image/jpg,eng,,
 col001_47,coll001-47.jpg,The Daly Brothers ,,1919,yes,Reproduction of the Daly brothers.,brothers;men;Daly;portrait,,,,,,Image;StillImage,image/jpg,eng,,
 col001_50,coll001-50.jpg,Ribbon Cutting for the Library,,1971,,Meridian Mayor Dan Storey & Librarian Nang Soze.,libraries;men;women;ribbon;books,"Meridian, Idaho",43.6121,-116.3915,,,Image;StillImage,image/jpg,eng,,
