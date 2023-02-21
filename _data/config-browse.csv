@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
+date_is_approximate?,Approximate Date,
 creator,Creator,,,
 subject,,true
 location,,true
-date_is_approximate?,Approximate Date,
