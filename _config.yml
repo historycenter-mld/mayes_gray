@@ -34,7 +34,7 @@ author: Meridian Library District and History Center
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: mayesgray6 
+metadata: mayes-gray
 
 ##########
 # Site/Organization Branding 
@@ -42,7 +42,7 @@ metadata: mayesgray6
 #
 organization-name: "Meridian Library District"
 organization-link: https://www.mld.org/resources/history
-organization-logo-banner: /assets/img/mld-logo.png
+organization-logo-banner: /assets/img/mld-color.png
 organization-logo-nav: /assets/img/mld-logo.png
 
 
